@@ -1,6 +1,9 @@
-# 👋 Good Morning, I'm David Mauricio Salinas Tamayo
+# 👋 Hello!, I'm David Mauricio Salinas Tamayo
 
-<img src="C:\Users\dmstz\Videos\Desarrollador.jpg" width="200"/>
+
+<p align="center">
+  <img src="C:\Users\dmstz\Videos\Desarrollador.jpg" width="200"/>
+</p>
 
 🎓 Software Engineering student passionate about application development and problem-solving through technology.\\
 💻 I focus on software development across different areas.\\
