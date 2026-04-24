@@ -1,5 +1,5 @@
 # 👋 Good Morning, I'm David Mauricio Salinas Tamayo
-<img src=""C:\Users\dmstz\OneDrive\Imágenes\Desarrollador.jpg"" width="200"/>
+<img src="C:\Users\dmstz\Videos\Desarrollador.jpg" width="200"/>
 🎓 Software Engineering student passionate about application development and problem-solving through technology.
 💻 I focus on software development across different areas.
 🚀 Currently, I am focused on applying the SCRUM methodology in software development.
