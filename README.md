@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="C:\Users\dmstz\Videos\Desarrollador.jpg" width="200"/>
+  <img src="img_gif/Desarrollador.gif" width="600"/>
 </p>
 
 🎓 Software Engineering student passionate about application development and problem-solving through technology.\\
@@ -65,8 +65,10 @@
 * 📱 Cell Phone: 0998832374
 
 ---
+⚡ Personal Motto
+“IF YOU CAN IMAGINE IT, YOU CAN PROGRAM IT”
 
-## ⚡ Personal Motto
-
-*"IF YOU CAN IMAGINE IT, YOU CAN PROGRAM IT"*
+<p align="center">
+  <img src="img_gif/Desarrollador2.jpg" width="200"/>
+</p>
 
